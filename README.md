@@ -7,7 +7,7 @@
 
 - Clone this repository with submodules:
 ```shell
-	git clone https://github.com/Surindaku/Nekogram-macOS.git --recurse-submodules
+git clone https://github.com/Surindaku/Nekogram-macOS.git --recurse-submodules
 ```
 - Install dependences:
 ```shell
