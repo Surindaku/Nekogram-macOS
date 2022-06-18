@@ -16,5 +16,5 @@ brew install cmake ninja openssl@1.1 zlib autoconf libtool automake yasm pkg-con
 - Run `./scripts/configure_frameworks.sh` and open xcode project to build.
 
 ## License
-Apply Artistic License 2.0 for the additions under the premise of complying with GNU GPLv2.
-The Artistic License is based on GPL License and it requires that modified versions of the software do not prevent users from running the standard version.
+Apply Artistic License 2.0 for the additions under the premise of complying with GNU GPLv2.<br>
+The Artistic License is based on GPL License and it requires that modified versions of the software do not prevent users from running [the standard version](https://github.com/overtake/TelegramSwift).
