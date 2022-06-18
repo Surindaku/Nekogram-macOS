@@ -1,18 +1,18 @@
 [submodule "submodules/libtgvoip"]
-	path = submodules/libtgvoip
-url=git@github.com:telegramdesktop/libtgvoip
+	path=submodules/libtgvoip
+	url=../libtgvoip
 [submodule "submodules/Sparkle"]
-	path = submodules/Sparkle
-url=git@gitlab.com:overtake/Sparkle.git
+	path=submodules/Sparkle
+	url=../Sparkle.git
 [submodule "submodules/telegram-ios"]
-	path = submodules/telegram-ios
-url=git@github.com:overtake/Telegram-iOS.git
+	path=submodules/telegram-ios
+	url=../Telegram-iOS.git
 [submodule "submodules/rlottie"]
-	path = submodules/rlottie
-url=git@github.com:overtake/rlottie.git
+	path=submodules/rlottie
+	url=git@github.com:overtake/rlottie.git
 [submodule "submodules/tgcalls"]
-	path = submodules/tgcalls
-	url = git@github.com:john-preston/tgcalls.git
+	path=submodules/tgcalls
+	url=git@github.com:john-preston/tgcalls.git
 [submodule "submodules/tg_owt"]
-	path = submodules/tg_owt
-	url = git@github.com:desktop-app/tg_owt.git
+	path=submodules/tg_owt
+	url=../tg_owt.git
